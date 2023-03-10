@@ -1,7 +1,5 @@
 const route = require('./Route.js');
 
-// replaceStr.DataHandle('Hello World');
-
 var count =100;
 var queue = 'import_test';
 var handleData = {
